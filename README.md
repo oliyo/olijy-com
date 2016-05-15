@@ -1,22 +1,2 @@
-
-Application created by [ThinkJS](http://www.thinkjs.org)
-
-## Install dependencies
-
-```
-npm install
-```
-
-## Start server
-
-```
-npm start
-```
-
-## Deploy with pm2
-
-Use pm2 to deploy app on production enviroment.
-
-```
-pm2 startOrReload pm2.json
-```
+### 项目介绍
+(http://oliyo.github.io/olijy-com.)[http://oliyo.github.io/olijy-com.]
